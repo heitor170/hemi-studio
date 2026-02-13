@@ -9,6 +9,3 @@ function incrementar() {
     h1.innerText = dinheiro;
 }
 
-function click1() {
-    click++;
-}
